@@ -1,0 +1,20 @@
+mch001,cmp001,Drive Shaft,Length,120,0.5,mm,100,1
+mch001,cmp001,Drive Shaft,Diameter,25,0.2,mm,100,1
+mch001,cmp002,Gear,Outer_Dia,60,0.3,mm,10,2
+mch001,cmp002,Gear,Inner_Dia,30,0.3,mm,10,2
+mch002,CMP003,Axle,Length,500,1,mm,20,2
+mch002,CMP004,Washer,Thickness,2.5,0.05,mm,10,0
+mch003,CMP005,Bracket,Width,40,0.2,mm,100,2
+mch003,CMP005,Bracket,Height,80,0.3,mm,100,1
+mch008,cmp067,Bolt A,Diameter,4,0.5,cm,1000,2
+mch008,cmp067,Bolt A,Height,5,0.004,mm,1000,2
+mch077,cmp099,NUT,HEIGHT,7,0.7,cm,50,2
+mch099,cmp077,Fork,stem,1,0,numbers,4,1
+mch087,cmp044,shaft,length,5,0.001,cm,799,1
+mch069,cmp069,Test,weight,10,0.1,kg,100,1
+mch017,cmp054,BoltC,Height,40,0.01,mm,50,2
+mch017,cmp054,BoltC,width,0.3,0.01,mm,50,2
+mch100,cmp100,Shaft,radius,2,0.02,mm,67,1
+mch075,cmp075,BoltJ,width,30,0.04,mm,12,2
+mch064,cmp064,boltU,height,12,0.1,mm,2,1
+mch064,cmp064,boltU,width,20,0.01,mm,2,1
