@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+#include<windows.h>
+#include<time.h>
+#include<ctype.h>
+#include<math.h>
+// --- GLOBAL CONSTANTS ---
+#define MAX_ROWS 400 // Maximum number of component parameter rows to load from the CSV
+#define EPSILON 1e-9 // Small value for floating-point comparison
+#define FPATH "C_txt_files\\production_parameters.csv" // Main data file path
+#define TL_FPATH "C_txt_files\\timeline.csv" // Report file path
+#define bufferSize 128 // Standard buffer size for string fields
+// Macro to clear the console screen, adapting for different operating systems
+#ifdef _WIN32
+    #define clearPage() system("cls")
+    #define cpy "copy"
+#else
+    #define cpy "cp"
+    #define clearPage() system("clear")
+#endif
