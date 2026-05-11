@@ -47,3 +47,8 @@ gcc home.c -o checkmate
 ## Notes
 
 The system focuses on simulating a real-world quality control loop including rejection, correction, and reinspection.
+
+## Contributors
+
+1. Akash R (Akash-r-git)
+2. Gokul (GOKUL-RAMKI)
